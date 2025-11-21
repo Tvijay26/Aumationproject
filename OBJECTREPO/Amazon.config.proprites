@@ -1,5 +1,7 @@
-browser = chrome
+browser1 = chrome
+browser2 = firefox
 url = https://www.flipkart.com/
 username = tvijaykarthik8@gmail.com
 password = vijay1234
 testing = uitesting
+regression = new modification
